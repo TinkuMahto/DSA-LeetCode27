@@ -86,6 +86,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0746-min-cost-climbing-stairs) |
@@ -226,6 +227,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -246,6 +248,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -372,6 +375,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0032-longest-valid-parentheses) |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -420,6 +424,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -452,6 +457,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -461,4 +467,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
