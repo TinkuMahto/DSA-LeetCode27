@@ -91,6 +91,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
@@ -137,6 +138,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0133-clone-graph) |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -225,6 +227,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -244,6 +247,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -416,6 +420,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
