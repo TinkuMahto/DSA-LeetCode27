@@ -63,6 +63,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3525-find-x-value-of-array-ii) |
@@ -120,6 +121,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
@@ -339,6 +342,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
@@ -484,4 +488,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0654-maximum-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
