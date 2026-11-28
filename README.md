@@ -137,6 +137,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -422,6 +425,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
